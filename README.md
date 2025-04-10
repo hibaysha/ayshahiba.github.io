@@ -21,9 +21,9 @@ Built a To-Do list app with add, remove, and completion features, leveraging Hiv
 
 [Google UX Design](https://drive.google.com/file/d/1-fFfu9YEASU4UwYvb07Ex-V6i1UL4Bof/view?usp=sharing)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![certificate](coursera.ux.pdf)
 
 ### Udemy UX/UX Deign Masterclass
 [Udemy UX/UX Deign Masterclass](https://drive.google.com/file/d/1xeKS39AAIdsxvaFrNZSVftHj2thcrpOQ/view?usp=sharing)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![certificate](udemy.uiux.certificate.jpg)
