@@ -1,6 +1,9 @@
 # Flutter App Developer
 
-+91 8281210507 | [LinkedIn] (https://www.linkedin.com/in/aysha-hiba-607136231/) | ayshahiba4098@gmail.com
++91 8281210507
+[LinkedIn] (https://www.linkedin.com/in/aysha-hiba-607136231/)
+ayshahiba4098@gmail.com
+
 #### Technical Skills: Flutter, Dart, Figma
 
 ## About Me
