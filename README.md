@@ -17,13 +17,13 @@ Implemented update and delete functionality for expense management using Hive, a
 **To-Do List App (_03/2025_)**
 Built a To-Do list app with add, remove, and completion features, leveraging Hive for data persistence and Provider for state management to deliver a smooth user experience.
 
-## Certification
-### Google UX Deign
-[Google UX Deign]([https://www.coursera.org/account/accomplishments/professional-cert/4B5SNY7M20DL](https://www.coursera.org/account/accomplishments/professional-cert/4B5SNY7M20DL))
+## Certifications
+
+[Google UX Design](https://drive.google.com/file/d/1-fFfu9YEASU4UwYvb07Ex-V6i1UL4Bof/view?usp=sharing)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Udemy UX/UX Deign Masterclass
-[Udemy UX/UX Deign Masterclass]([https://www.coursera.org/account/accomplishments/professional-cert/4B5SNY7M20DL](https://www.udemy.com/certificate/UC-7e12473f-2463-4968-ab46-4f0017bde8be/)](https://www.udemy.com/certificate/UC-7e12473f-2463-4968-ab46-4f0017bde8be/))
+[Udemy UX/UX Deign Masterclass](https://drive.google.com/file/d/1xeKS39AAIdsxvaFrNZSVftHj2thcrpOQ/view?usp=sharing)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
