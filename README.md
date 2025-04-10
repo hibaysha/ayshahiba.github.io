@@ -1,7 +1,7 @@
 # Flutter App Developer
 
++91 8281210507 | [LinkedIn] (https://www.linkedin.com/in/aysha-hiba-607136231/) | ayshahiba4098@gmail.com
 #### Technical Skills: Flutter, Dart, Figma
-#### +91 8281210507 | [LinkedIn] (https://www.linkedin.com/in/aysha-hiba-607136231/) | ayshahiba4098@gmail.com
 
 ## About Me
 Junior Flutter Developer with a strong enthusiasm for building innovative mobile applications. Proficient in Flutter and Dart, with a growing skill set in software development. Familiar with various development tools and procedures, and eager to learn and expand my expertise. Able to work independently and collaboratively as part of a team, with a strong willingness to learn and take on new challenges.
